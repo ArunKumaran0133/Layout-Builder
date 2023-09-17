@@ -1,0 +1,32 @@
+.input-label {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: white;
+}
+
+.check-box-input {
+  height: 20px;
+  width: 20px;
+}
+
+.configure-container {
+  background-color: #475569;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 10%;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.configure-heading {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 50px;
+  font-weight: 800;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
